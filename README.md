@@ -1,4 +1,4 @@
-#How to install the Bootstrap
+# How to install the Bootstrap
 
 <p align="center">
     <img src="https://media.discordapp.net/attachments/571355273042722817/571359957568716802/ecabootstrap.jpg"
