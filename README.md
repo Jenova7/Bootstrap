@@ -8,8 +8,6 @@
 
 ### 2- Download the bootstrap (Fresh peers.dat added):
 
-*Updated April 24, 2019
-
 ### 3- Open your Electra folder 
 
 ####   Windows:
@@ -25,15 +23,22 @@
 
 ### 4- Put the ElectraBootstrap.zip in this Electra folder
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571355292638642187/unknown.png">
+<img src="https://media.discordapp.net/attachments/571355273042722817/571362291774390308/unknown.png">
 
 
 ### 5- Extract the file:
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571356066714091560/unknown.png">
+<img src="https://media.discordapp.net/attachments/571355273042722817/571362596486381568/unknown.png">
 
 ### 6- Run the wallet v2.x
 
 ### 7- If you think you have coins missing, restart your wallet once full sync is complete
 
 ### 8- Your done! 
+
+
+Disclaimer: This guide is used for informational purposes only.
+            The Electra (ECA) Team is not responsible for what you do with your wallet.
+            Please ask for help if you have any questions in this process. 
+
+            - ECA Team
