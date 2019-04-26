@@ -8,6 +8,8 @@
 
 ### 2- Download the bootstrap (Fresh peers.dat added):
 
+https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/ElectraBootstrap.zip
+
 ### 3- Open your Electra folder 
 
 ####   Windows:
