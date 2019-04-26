@@ -16,12 +16,14 @@ https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/Elec
         A-Press Windows +R 
         B-Type in:  %appdata%\Electra
         C-Delete everything EXCEPT wallet.dat and electra.conf
+    /!\ Make a copy of your wallet.dat in a safety place, better in other Hard-drive, USB stick, ect...
 
 ####   Mac:
         A- Click desktop and click on Go to folder or press Shift ⇧ + Command ⌘ + G
         B- Type ~/Library/Application Support/Electra and then click on Go
         C- Delete everything EXCEPT wallet.dat and electra.conf
     
+    /!\ Make a copy of your wallet.dat in a safety place, better in other Hard-drive, USB stick, ect...
 
 ### 4- Put the ElectraBootstrap.zip in this Electra folder
 
