@@ -27,12 +27,12 @@ https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/Elec
 
 ### 4- Put the ElectraBootstrap.zip in this Electra folder
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571362291774390308/unknown.png">
+<img src="https://media.discordapp.net/attachments/571355273042722817/571372389297029128/unknown.png">
 
 
 ### 5- Extract the file:
 
-<img src="https://media.discordapp.net/attachments/571355273042722817/571362596486381568/unknown.png">
+<img src="https://media.discordapp.net/attachments/571355273042722817/571372031661309953/unknown.png">
 
 ### 6- Run the wallet v2.x
 
