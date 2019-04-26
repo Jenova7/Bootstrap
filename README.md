@@ -16,6 +16,7 @@ https://github.com/Electra-project/Electra-Bootstrap/releases/download/v1.0/Elec
         A-Press Windows +R 
         B-Type in:  %appdata%\Electra
         C-Delete everything EXCEPT wallet.dat and electra.conf
+	
     /!\ Make a copy of your wallet.dat in a safety place, better in other Hard-drive, USB stick, ect...
 
 ####   Mac:
